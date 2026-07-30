@@ -2,6 +2,12 @@
 
 Handwritten Digit Recognition using Deep Learning.
 
+## Preview
+
+![UI](Screenshots/Dashboard.png)
+![UI](Screenshots/Main.png)
+![UI](Screenshots/Result.png)
+
 ## Features
 
 - Draw digit using interactive canvas
